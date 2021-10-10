@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "FB Posts",
-    "colorLabel": "Com",
+    "colorLabel": "Comunities",
     "nodeLabel": "Users"
   },
   "features": {
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Degree"
+    "imageAttribute": "Eigenvector Centrality"
   },
   "sigma": {
     "drawingProperties": {
