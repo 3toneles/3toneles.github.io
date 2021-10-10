@@ -13,7 +13,7 @@
     "title": "Huawei Social Network Dats"
   },
   "legend": {
-    "edgeLabel": "FB Posts",
+    "edgeLabel": "Facebook posts",
     "colorLabel": "Comunities",
     "nodeLabel": "Users"
   },
