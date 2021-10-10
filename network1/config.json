@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "Group 4 - Huawei SNA Visualization\n10 Communities\nNodes have been filtered to focus on those that have a high degree (\u003e200) and Hgh PageRankr Centrality",
+    "intro": "Group 4 - Huawei SNA Visualization\nNodes have been filtered to focus on those that have a high degree (\u003e200) and Hgh PageRankr Centrality",
     "title": "Huawei Social Network Dats"
   },
   "legend": {
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "Eigenvector Centrality"
   },
   "sigma": {
     "drawingProperties": {
