@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "",
+    "intro": "Nodes have been filtered to focus on those that have a high degree (\u003e200) and Hgh Eigenvector Centrality (\u003e0.72)",
     "title": ""
   },
   "legend": {
