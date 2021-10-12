@@ -8,14 +8,14 @@
     "text": "Group 4"
   },
   "text": {
-    "more": "This is the longer descrption",
+    "more": "",
     "intro": "Group 4 - Huawei SNA Visualization\n10 Communities\nNodes have been filtered to focus on those that have a high degree (\u003e200) and Hgh PageRankr Centrality",
     "title": "Huawei Social Network Dats"
   },
   "legend": {
     "edgeLabel": "Facebook posts",
     "colorLabel": "Comunities",
-    "nodeLabel": "Facebook Users"
+    "nodeLabel": "Users"
   },
   "features": {
     "search": true,
