@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Group 4"
+  },
+  "text": {
+    "more": "This network represents a set of 1000 Huawei facebook users and the messages . The data was obtained from :\n\nhttps://www.kaggle.com/andrewlucci/huawei-social-network-data/tasks\n\nHuawei R \u0026 D uses social network analysis tools and techniques to enhance their business positions. One of the Major success behind Huawei Company is that they promote their products through Social Media.\n\nThe data was collected using web crawlers API’s to extract the Facebook posts and represents a communication network between no of people who use social media on daily basis. \nNLP techniques are used to took only positive reviews from posts and after that data is preprocessed.\n\nSocial Media Analysis will help the Huawei Company to improve their businesses in the following ways :\n\nSocial Media Analysis Helps the Huawei Company to improve their businesses form the following ways :\n\n    Evaluate the impact of marketing campaigns.\n    Make better business decisions and build a strong strategy.\n    Improve customer experience and satisfaction and build brand awareness.\n    Better understand their targeted audience\n    Iincrease engagement and responsiveness\n    Highlight problems and weaknesses to discover new trends and avoid a brand crisis.\n\n\t\n",
+    "intro": "Group 4 - Huawei SNA Visualization\n\nThe size of the node is determined by the value of the  Eigenvector Centrality\nColors correspond to the comunities detected by Gephi\u0027s  Modularity algorithm",
+    "title": "Huawei Social Network"
+  },
+  "legend": {
+    "edgeLabel": "Facebook posts",
+    "colorLabel": "Comunities",
+    "nodeLabel": "Facebook Users"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
